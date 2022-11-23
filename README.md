@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 [![@desire01's Holopin board](https://holopin.me/desire01)](https://holopin.io/@desire01)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="098ce23a-f5fd-4e7a-9193-21f5c3281cae" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="89a08dce-4964-483e-8db1-9d96f2a31b1b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
