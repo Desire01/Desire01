@@ -1,6 +1,6 @@
 ### Hi there 👋
-About Me
-I’m Desire Lumene, an ERM & IT Risk Analyst, NOC Engineer, and Cybersecurity Professional with over 5 years of experience.
+## About Me
+## I’m Desire Lumene, an ERM & IT Risk Analyst, NOC Engineer, and Cybersecurity Professional with over 5 years of experience.
 
 ✔ Expertise in ERM frameworks, risk assessment, and regulatory compliance.
 ✔ Expertise in Thirdparty risk assessment.
