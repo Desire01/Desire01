@@ -1,11 +1,11 @@
 ### Hi there 👋
 ## About Me
 I’m Desire Lumene, an ERM & IT Risk Analyst, NOC Engineer, and Cybersecurity Professional with over 5 years of experience.
-- ✔ Expertise in ERM frameworks, risk assessment, and regulatory compliance.
-- ✔ Expertise in Thirdparty risk assessment.
-- ✔ Proven track record in NOC operations, incident response, and network monitoring.
-- ✔ Skilled in SIEM, endpoint protection, and IT governance.
-- ✔ Strong communicator bridging business and IT priorities.
+- Expertise in ERM frameworks, risk assessment, and regulatory compliance.
+- Expertise in Thirdparty risk assessment.
+- Proven track record in NOC operations, incident response, and network monitoring.
+- Skilled in SIEM, endpoint protection, and IT governance.
+- Strong communicator bridging business and IT priorities.
 <!--
 **Desire01/Desire01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
